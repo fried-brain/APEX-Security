@@ -46,5 +46,9 @@
 * Warn
 * Whois
 
+## 💨 Run the projects
+
+Repl: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/alonefx/APEX-Security)
+
 # Contributors:
  * [ALoneFx](https://github.com/alonefx) - Code and Commands
