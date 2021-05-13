@@ -2,9 +2,9 @@
   <a href="https://github.com/alonefx/APEX-Security">
     <img src="https://cdn.discordapp.com/attachments/840575961619103786/840576727108943932/1620479499119.png" alt="Logo" width="80" height="80">
   </a>
-  <h2 align="center">APEX Security Bot</h2>
+  <h1 align="center">APEX Security Bot</h1>
 
-# APEX Security Bot
+# Installation Info.
 
 ### For Visual Studio Code Users -  
 #### Requirements & Steps
