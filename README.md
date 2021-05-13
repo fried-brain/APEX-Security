@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/alonefx/APEX-Security">
+    <img src="https://cdn.discordapp.com/attachments/840575961619103786/840576727108943932/1620479499119.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">ChillingMusic</h3>
+
 # APEX Security Bot
 
 ### For Visual Studio Code Users -  
