@@ -6,7 +6,7 @@
 
 # Installation Info.
 
-# For Visual Studio Code Users -  
+## For Visual Studio Code Users -  
 #### Requirements & Steps
 * This Project
 * Node.js, Discord.js Installed
@@ -15,7 +15,7 @@
 * Run `npm i` once in Terminal to install Dependencies
 * Run `node index.js` to ***RUN*** the bot.
 
-# For replit users -
+## For replit users -
 #### Requirements & Steps
 * Discord Bot Token, Prefix
 * Edit the `config.js and owner.json` file
@@ -23,14 +23,14 @@
 * Run `node index.js` to ***RUN*** the bot.
 
 
-# Features & Info
+## Features & Info
 * Author: `ALone#8712`
 * Moderation Bot built to manage discord servers.
 * This bot has all the premium commands too. Hackban/forceban [Type of ip ban] is also available
 * Modular Discord bot built entirely on pure JavaScript using Discord.JS.
 * Modlogs for all the actions.
 
-#### Commands
+### Commands
 * Ban | Unban
 * Deafen | Undeafen
 * DisableModLogChannel | SetModLogChannel
