@@ -1,8 +1,7 @@
 <p align="center">
   <a href="https://github.com/alonefx/APEX-Security">
     <img src="https://cdn.discordapp.com/attachments/840575961619103786/840576727108943932/1620479499119.png" alt="Logo" width="200" height="200">
-  </a>
-  <h1 align="center">APEX Security Bot</h1>
+  </a> <h1 align="center">APEX Security Bot</h1>
 
 # Installation Info.
 
