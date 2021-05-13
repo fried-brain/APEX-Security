@@ -58,3 +58,11 @@ Repl: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicB
 
 # Contributors:
  * [ALoneFx](https://github.com/alonefx) - Code and Commands
+ 
+ * Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
+
+<a href="https://github.com/alonefx/APEX-Security/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=alonefx/APEX-Security" />
+</a>
+
+Made with :heart: and JavaScript!
