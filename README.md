@@ -54,7 +54,7 @@
 
 ## 💨 Run the projects
 
-Repl: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/alonefx/APEX-Security)
+Repl: [![Run on Repl.it](https://repl.it/badge/github/ALoneFX/Discord-MusicBot)](https://repl.it/github/alonefx/APEX-Security)
 
 # Contributors:
  * [ALoneFX](https://github.com/alonefx)
