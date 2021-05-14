@@ -57,7 +57,7 @@
 Repl: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/alonefx/APEX-Security)
 
 # Contributors:
- * [ALoneFx](https://github.com/alonefx)
+ * [ALoneFX](https://github.com/alonefx)
  
  * Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
 
