@@ -15,7 +15,6 @@
 * Run `npm i` once in Terminal to install Dependencies
 * Run `node index.js` to ***RUN*** the bot.
 
-<p align="center">
 ### For replit users -
 #### Requirements & Steps
 * Discord Bot Token, Prefix
